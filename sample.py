@@ -1,4 +1,3 @@
-print("Input")
 N=int(input())
 if N<=1 or N<=100000:
     if N>0:
